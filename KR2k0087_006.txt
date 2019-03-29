@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 桂勝
-#+DATE: 2019-03-29 20:57:45.846263
+#+DATE: 2019-03-29 20:57:45.966915
 #+PROPERTY: ID KR2k0087
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR2k0087_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -78,7 +78,7 @@
 已天寶元年改州為郡改刺史為太守至德一載復諸¶
 州及官名州屬則有别駕長史司馬録事叅軍而節度¶
 之屬又有副大使知節度使行軍司馬副使判官支使¶
-掌書記推官廵官衙推官之𩔗¶
+掌書記推官廵官衙推官之類¶
 ¶
 　　五代楚¶
 ¶

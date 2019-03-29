@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 桂勝
-#+DATE: 2019-03-29 20:57:45.759937
+#+DATE: 2019-03-29 20:57:45.899396
 #+PROPERTY: ID KR2k0087
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2k0087_WYG_000-1a>¶
 　　欽定四庫全書　　　　史部十一¶
